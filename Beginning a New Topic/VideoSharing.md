@@ -14,5 +14,5 @@ In this activity, students are asked to share prior knowledge of a topic and to 
 
 In an Emerging Technologies Class at LJ University, students are asked to contribute videos on a discussion topic. The topic in question is "Give me an example of time you saw technology used in popular culture." Students provide short videos to share on that topic in a discussion board with a few reflections on what they took from this viewing experience. The instructor then uses these reflections to select topics for future discussion and guide conversation in the next class. Here are some of the videos the students shared: 
 - [Carrie's laptop from Sex in the City](https://www.youtube.com/watch?v=YWSZJXhOvBw)
-- [Video Game episodeo of Community(https://www.youtube.com/watch?v=J9WVSy7JpT4)
+- [Video Game episodeo of Community](https://www.youtube.com/watch?v=J9WVSy7JpT4)
 - [Bandersnatch trailer](https://www.youtube.com/watch?v=7wnRi3Sclm8)
