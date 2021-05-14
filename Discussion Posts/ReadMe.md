@@ -13,4 +13,4 @@ In this exercise, students are asked to write a blog post on a discussion topic 
 [How to Use Hypothesis](https://web.hypothes.is/help/) 
 
 ## Example
-In an Emerging Technologies Class at LJ University, students are discussing Non-fungible tokens and asked to write a blog post about this week's readings on the topic prior to the next class. The blog posts are shared to a centralized RSS feed and students are asked to leave comments on their classmates' posts using Hypothesis. As an example, I've left comments on [this Hackernoon post](https://hackernoon.com/what-is-gpt-3-and-why-do-we-need-it-673j34q7) about NFTs. 
+In an Emerging Technologies Class at LJ University, students are discussing GPT-3 and asked to write a blog post about this week's readings on the topic prior to the next class. The blog posts are shared to a centralized RSS feed and students are asked to leave comments on their classmates' posts using Hypothesis. As an example, I've left comments on [this Hackernoon post](https://hackernoon.com/what-is-gpt-3-and-why-do-we-need-it-673j34q7) about GPT-3. 
