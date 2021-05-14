@@ -1,7 +1,8 @@
 # Animate Yourself
 
 **When to Use:** Beginning discussion on a new topic, Frame a broader discussion, Brainstorming.  
-**Needed Materials:** Smartphone, [Toontastic Application](https://toontastic.withgoogle.com/).   
+**Needed Materials:** Smartphone, [Toontastic Application](https://toontastic.withgoogle.com/).  
+**Time to Complete:** 20 minutes
 **In Synchronous Classrooms:** Ask students to present their videos.   
 **In Asynchronous Classrooms:** Ask students to share their videos in a discussion space.   
 **For future use:** Save videos in a wiki or shared canvas page for future classes to explore.   
