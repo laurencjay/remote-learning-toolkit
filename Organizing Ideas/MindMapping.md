@@ -17,5 +17,11 @@ This exercise is designed to help students ideate and problem solve in a group s
 
 ## Example 
 
-In an Emerging Technologies Class at LJ University, students discuss problems and risks that technology can create. During this class, students are discussing Artificial Intelligence and possible risks. They are broken up into small groups to map the topic. They then share what they discussed with the classmates, intentionally looking to places of overlap. An example of one of those mind maps is found below.
+In an Emerging Technologies Class at LJ University, students discuss problems and risks that technology can create. During this class, students are discussing Artificial Intelligence and possible risks. They are broken up into small groups to map the topic. Here is the map created by the first group.
+
 ![Mind Map](https://user-images.githubusercontent.com/8364411/118344661-64744880-b4fd-11eb-87b1-c9b0de569a91.jpg)
+
+They then share what they discussed and wrote with their classmates. Other students will ask questions and even add thoughts as they come up onto the map. As discussion continues, each of the mind maps evolves. The previous image of the mind map looks like this by the end of class. 
+
+![Mind Map copy](https://user-images.githubusercontent.com/8364411/118346957-7cec5f00-b50d-11eb-8703-bf2075ab4f22.jpg)
+
