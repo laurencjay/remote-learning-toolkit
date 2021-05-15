@@ -4,12 +4,11 @@
 **Needed Materials:** Internet connected device, [Miro](https://miro.com/app/dashboard/)   
 **Time to Complete:** Any length of time.     
 **In Synchronous Classrooms:** Students co-create these maps together in class.  
-**In Asynchronous Classrooms:**  Students share a map and add thoughts 
+**In Asynchronous Classrooms:**  Students share a map and add thoughts asynchornously.  
 **For future use:** Save links to maps in a repository or document for future classes. Future students can also add to the same maps. 
 
 ## Description 
-This exercise is designed to help students ideate and problem solve in a group setting. 
-
+This exercise is designed to help students ideate and problem solve in a group setting. Students are given a topic to brainstorm together or a problem to answer. They then use a mind-mapping tool such as Miro to draw a mental map of ideas or possible solutions. They can then present those mind maps to their classmates, creating opportunity to further discuss the topic. 
 
 ## Resources 
 
@@ -17,4 +16,5 @@ This exercise is designed to help students ideate and problem solve in a group s
 
 ## Example 
 
-In an Emerging Technologies Class at LJ University, students are reading the book The Idea Factory on the history of Bell Labs. In order to contextualize their readings, students are asked to map major locations from the book The Idea Factory(https://www.google.com/maps/d/u/0/edit?hl=en&mid=1iSZilC8Ie4odaGKK8HzklEkumq9YqXqb&ll=40.36536968188619%2C-74.1671512&z=18). They then shared the maps with each other and are given time to explore them individually before continuing their discussion. 
+In an Emerging Technologies Class at LJ University, students discuss problems and risks that technology can create. During this class, students are discussing Artificial Intelligence and possible risks. They are broken up into small groups to map the topic. They then share what they discussed with the classmates, intentionally looking to places of overlap. An example of one of those mind maps is found below.
+![Mind Map](https://user-images.githubusercontent.com/8364411/118344661-64744880-b4fd-11eb-87b1-c9b0de569a91.jpg)
