@@ -1,6 +1,6 @@
 # Book Review
 **When to Use:** Reviewing readings, preparation for discussion, as an alternative to a paper on a specific topic.  
-**Needed Materials:** Computer, Voice recording software such as Audacity or recording on your phone using [Voice Memos](https://support.apple.com/en-us/HT206775) or similar application.  
+**Needed Materials:** Computer, Voice recording software such as [Audacity](https://www.audacityteam.org/) or recording on your phone using [Voice Memos](https://support.apple.com/en-us/HT206775) or similar application.  
 **Time to Complete:** 1 hour plus reading time.   
 **In Synchronous Classrooms:** Listen to recordings before or in class and respond to the student live.   
 **In Asynchronous Classrooms:** Listen to the recordings at home and leave comments on class discussion board.    
