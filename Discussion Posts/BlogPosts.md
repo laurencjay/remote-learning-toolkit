@@ -1,6 +1,7 @@
 # Blog Posts and Annotation
 **When to Use:** Any discussion based topic, as an alternative to a writing assignment.  
-**Needed Materials:** Computer, [Medium](https://medium.com/) account or access to shared blog platform that you create such as [Wordpress](https://wordpress.com/), [Hypothesis](https://web.hypothes.is/).   
+**Needed Materials:** Computer, [Medium](https://medium.com/) account or access to shared blog platform that you create such as [Wordpress](https://wordpress.com/), [Hypothesis](https://web.hypothes.is/).     
+**Time to Complete:** 1 hour.  
 **In Synchronous Classrooms:** Develop discussion questions around the posts shared.  
 **In Asynchronous Classrooms:** Only have students comment on the post using Hypothesis.   
 **For future use:** [Create an RSS feed of the medium posts](https://medium.com/live-your-life-on-purpose/medium-rss-feeds-df32ba80f8f) or if you all using the same blog platform, keep it hosted online for access and contribution by future students.   
