@@ -7,7 +7,7 @@
 **For future use:** Keep a list of previous Kahoot links and any related presentation materials to use for future games or checks for understanding in future lessons.  
 
 ## Description
-This exercise asks students to create their own checks for understanding to review material discussed in class. This could be as a component of a larger presentation, a full review game that students are asked to contribute to prior to an assessment, or even as an assessment alternative. After the content has been delivered, the students can run the Kahoot quiz themselves and ask other students to participate on their devices. The Kahoots can also be made publicly available for students to complete on their own time as review. 
+This exercise asks students to create their own checks for understanding to review material discussed in class. This could be as a component of a larger presentation, a full review game that students are asked to contribute to prior to an assessment, or even as an assessment alternative. After the content has been delivered, the students can run the Kahoot quiz themselves and ask other students to participate on their devices. The Kahoots can also be made publicly available for students to complete on their own time as review. Kahoot scores the quizzes live and creates a light competition between players to answer the fastest. 
 
 ## Resources
 [How to Make a Kahoot](https://kahoot.com/blog/2021/01/28/how-to-create-kahoot-tips-teachers/)
