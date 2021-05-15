@@ -5,7 +5,7 @@
 **Time to Complete:** 30 minutes.     
 **In Synchronous Classrooms:** Ask students to share their maps in class.  
 **In Asynchronous Classrooms:** Ask students to share the maps in a discussion space.   
-**For future use:** Save links to maps in a repository or document for future classes.
+**For future use:** Save links to maps in a repository or document for future classes. Future students can also add to the same maps.
 
 ## Description 
 This exercise is designed to help students vizualize the locations from a story by mapping their locations. This works well for studies that are grounded in specific places. In this exercise, students will create their own map using the [My Maps](https://www.google.com/maps/d/u/0/) feature of google maps. Here, students can add any number of locations to layers of the map and share additional information from the story. Students can then share and explore each others maps, using street view to further examine the locations. This exercise is a great opportunity for students to share a story or present on a specific topic in a unique format. 
