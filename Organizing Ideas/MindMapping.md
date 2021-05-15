@@ -4,7 +4,7 @@
 **Needed Materials:** Internet connected device, [Miro](https://miro.com/app/dashboard/)   
 **Time to Complete:** Any length of time.     
 **In Synchronous Classrooms:** Students co-create these maps together in class.  
-**In Asynchronous Classrooms:**  Students share a map and add thoughts asynchornously.  
+**In Asynchronous Classrooms:**  Students share a map and add thoughts asynchronously.  
 **For future use:** Save links to maps in a repository or document for future classes. Future students can also add to the same maps. 
 
 ## Description 
@@ -12,7 +12,8 @@ This exercise is designed to help students ideate and problem solve in a group s
 
 ## Resources 
 
-[Make a map using My Maps](https://support.google.com/mymaps/answer/3024454?co=GENIE.Platform%3DDesktop&hl=en)
+- [Build your first Miro Board](https://www.youtube.com/watch?v=7L1-0DOGHDY)
+- [How to Build a Mind Map](https://miro.com/guides/mind-mapping/)
 
 ## Example 
 
