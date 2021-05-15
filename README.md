@@ -13,7 +13,7 @@ The toolkit is intended to allow educators to 'plug and play' various activities
 We invite educators to contribute other examples of activities that to continue to expand this toolkit. 
 
 **Examples in the Toolkit**
-In order to showcase how these exercises can be used in the classroom, I developed a sample class (Emerging Technologies) and university (LJ University). 
+In order to showcase how these exercises can be used in the classroom, I developed a sample class (Emerging Technologies) and university (LJ University) to model how these exercises would look and feel in a remote classroom and how students would interact with the prompts
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
