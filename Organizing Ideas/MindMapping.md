@@ -8,7 +8,7 @@
 **For future use:** Save links to maps in a repository or document for future classes. Future students can also add to the same maps. 
 
 ## Description 
-This exercise is designed to help students ideate and problem solve in a group setting. Students are given a topic to brainstorm together or a problem to answer. They then use a mind-mapping tool such as Miro to draw a mental map of ideas or possible solutions. They can then present those mind maps to their classmates, creating opportunity to further discuss the topic. This activity is particularly valuable for continued co-creation throughout both an individual course as well as future courses. Students have the ability to build off of each other's mind maps and to contribute to those from past and future cohorts.
+This exercise is designed to help students ideate and problem solve in a group setting. Students are given a topic to brainstorm together or a problem to answer. They then use a mind-mapping tool such as Miro to draw a mental map of ideas or possible solutions. They can then present those mind maps to their classmates, creating opportunity to further discuss the topic. This activity is particularly valuable for continued co-creation throughout both the current course as well as other previous iterations. Students have the ability to build off of each other's mind maps and to contribute to those from past cohorts, adding new knowledge and context to previous ideas. This creates a robust network of knowledge students can rely on in their course.
 
 ## Resources 
 
