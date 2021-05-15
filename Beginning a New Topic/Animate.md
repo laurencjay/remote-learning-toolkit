@@ -8,7 +8,7 @@
 **For future use:** Save videos in a wiki or shared canvas page for future classes to explore.   
 
 ## Description 
-In this activity students are asked to answer a broad question about a topic they are unfamiliar with. They are asked to showcase prior knowledge and spark discussion through this exercise. The educator will provide a few questions for students to answer. In response, students will share or post a video they animate using Toontastic, a 3-D animation mobile app, as an answer to the question. In this app, students can record their voice over video, the application provides the scenes and students can do their own 'light' animation of the scene. The educator should use these videos to 1. better understand where students' pre-existing knowledge levels are at and 2. propel discussion forward on a new topic.
+In this activity, students are asked to answer a broad question about a topic they are unfamiliar with. They are asked to showcase prior knowledge and spark discussion through this exercise. The educator will provide a few questions for students to answer. In response, students will share or post a video they animate using Toontastic, a 3-D animation mobile app, as an answer to the question. In this app, students can record their voice over video, the application provides the scenes and students can do their own 'light' animation of the scene. The educator should use these videos to 1. better understand where students' pre-existing knowledge levels are at and 2. propel discussion forward on a new topic.
 
 ## Resources 
 
