@@ -1,6 +1,7 @@
 # Self-Created Quizzes 
 **When to Use:** Study prep before a test, checks for understanding after a presentation.  
-**Needed Materials:** Computer, Smartphone or other similar internet connected device, a free [Kahoot](https://kahoot.com/) account.      
+**Needed Materials:** Computer, Smartphone or other similar internet connected device, a free [Kahoot](https://kahoot.com/) account. 
+**Time to Complete**: 20 minutes.    
 **In Synchronous Classrooms:** Ask students to run a review game or after their presentation, share their screen to play the Kahoot and present to the class.   
 **In Asynchronous Classrooms:** Share the Kahoots in a discussion board for students to play on their own.   
 **For future use:** Keep a list of previous Kahoot links and any related presentation materials to use for future games or checks for understanding in future lessons.  
