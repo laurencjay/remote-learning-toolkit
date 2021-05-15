@@ -1,6 +1,6 @@
 # Blog Posts and Annotation
 **When to Use:** Any discussion based topic, as an alternative to a writing assignment.  
-**Needed Materials:** Computer, [Medium](https://medium.com/) account or access to shared blog platform that you create such as [Wordpress](https://wordpress.com/), [Hypothesis](https://web.hypothes.is/).     
+**Needed Materials:** Computer, [Medium](https://medium.com/) account or access to shared blog platform that you create such as [Wordpress](https://wordpress.com/), [Hypothesis](https://web.hypothes.is/) account (a web annotation tool).     
 **Time to Complete:** 1 hour.  
 **In Synchronous Classrooms:** Develop discussion questions around the posts shared.  
 **In Asynchronous Classrooms:** Only have students comment on the post using Hypothesis.   
