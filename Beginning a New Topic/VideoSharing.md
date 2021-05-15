@@ -17,4 +17,4 @@ In an Emerging Technologies Class at LJ University, students are asked to contri
 - [Video Game episode of Community](https://www.youtube.com/watch?v=J9WVSy7JpT4)
 - [Bandersnatch trailer](https://www.youtube.com/watch?v=7wnRi3Sclm8)
 
-These videos led to further discussions on students perceptions of the technology, if they see the references as progressive or dated, and how has the technology portrayed changed. 
+These videos led to further discussions on students perceptions of the technology, if they see the references as progressive or dated, and how the technologies portrayed have changed. 
